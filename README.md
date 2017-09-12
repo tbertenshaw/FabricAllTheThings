@@ -8,7 +8,7 @@ example lifted from "Programming Service Fabric"
 
 ## Demonstrates: 
 
-* deploying an un-servicefabric aware webservice with a watchdog service which reports on the apps health.
+* deploying an un-fabric-aware webservice with a watchdog service which reports on the apps health.
 * using elevated accounts for installation of the services.
 * correlating two services
 * reporting to ServiceFabric about the health of an un-fabric-aware service.
