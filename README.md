@@ -20,4 +20,6 @@ example lifted from "Programming Service Fabric"
 * open http://localhost:8088 and see the time response.
 * Open Service Fabric Explorer and find the node with the TimeService running, and restart the node
 * in the streaming logs notice the changes and when fabric has redeployed the apps refresh the page to see the time response.
+* run http://localhost:8088/?COMMAND=kill 
+* see the the service exit, fabric reploy the service, and watchdog reporting on these events and the subsequent events as the health recovers.
 
