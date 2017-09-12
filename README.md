@@ -6,7 +6,15 @@ All examples updated with latest version of the service fabric SDK and .NET47 an
 # GuestApplication
 example lifted from "Programming Service Fabric"
 
-Demonstrates deploying an un-servicefabric aware webservice with a watchdog service which reports on the apps health.
+## Demonstrates: 
+
+* deploying an un-servicefabric aware webservice with a watchdog service which reports on the apps health.
+* using elevated accounts for installation of the services.
+* correlating two services
+* reporting to ServiceFabric about the health of an un-fabric-aware service.
+
+## To try:
+
 * publish to your local cluster
 * connect to the cluster from VisualStudio/CloudExplorer and view streaming logs.
 * open http://localhost:8088 and see the time response.
