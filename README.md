@@ -4,7 +4,7 @@ Service Fabric Examples and usecases
 All examples updated with latest version of the service fabric SDK and .NET47 and or Dotnetcore2 where relevant.
 
 # GuestApplication
-example lifted from "Programming Service Fabric"
+example lifted from ["Programming Microsoft Azure Service Fabric"](https://www.amazon.co.uk/Programming-Microsoft-Developer-Reference-Paperback/dp/1509301887)
 
 ## Demonstrates: 
 
