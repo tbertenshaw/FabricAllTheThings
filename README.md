@@ -23,3 +23,8 @@ example lifted from ["Programming Microsoft Azure Service Fabric"](https://www.a
 * run http://localhost:8088/?COMMAND=kill 
 * see the the service exit, fabric reploy the service, and watchdog reporting on these events and the subsequent events as the health recovers.
 
+## Todo:
+
+* [Find out best method to find correlated service's endpoint](https://stackoverflow.com/questions/46194850/locating-a-correlated-service)
+* demonstrate CI using Team services
+* demonstrate blue green
